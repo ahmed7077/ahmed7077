@@ -1,16 +1,47 @@
-## Hi there 👋
+Ahmed — AI & Machine Learning Developer
 
-<!--
-**ahmed7077/ahmed7077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a 3rd-year Information Science & Engineering student with a strong focus on Artificial Intelligence, Machine Learning, and Computer Vision. I enjoy building real-world projects involving deep learning, LLM fine-tuning, and embedded systems using Raspberry Pi.
 
-Here are some ideas to get you started:
+Skills:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Programming: Python, Java, C, C++
+AI/ML: TensorFlow, PyTorch (beginner), CNNs, Transformers
+Data Science: NumPy, Pandas, Matplotlib
+Computer Vision: OpenCV, image preprocessing, detection pipelines
+Embedded Systems: Raspberry Pi Zero 2W, Flask, API-based pipelines
+Other: Git, Linux basics, model deployment concepts,UiPath Automation
+
+Major Projects:
+
+1. Astronomical Event Detection System
+
+    Raspberry Pi Zero 2W + Python-based system for detecting meteor trails, star patterns, and satellite transits using deep learning.
+
+2. Facial Expression Detection (FER-2013)
+
+    TensorFlow-based model using EfficientNetB0 for 7-class emotion classification. Includes training pipeline and inference setup.
+
+3. IoT Server Monitoring System
+
+    Arduino-based monitoring system built in 2nd semester for basic IoT and hardware understanding.
+
+4. LLM Fine-Tuning Project (IonIdea Internship)
+
+    Worked on fine-tuning LLaMA models, dataset preparation, training pipelines, and evaluation frameworks.
+
+What I’m Currently Learning
+
+LLM fine-tuning and optimization
+
+Advanced CNN architectures
+
+Model deployment on cloud and edge devices
+
+Improving documentation and code quality in ML projects
+
+Contact
+
+Feel free to reach out:
+
+Email:ahmedmu7077@gmail.com
+LinkedIn: www.linkedin.com/in/muhammadahmed05
