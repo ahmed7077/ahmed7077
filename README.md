@@ -31,10 +31,10 @@ Major Projects:
 
 What I’m Currently Learning:
 
-  LLM fine-tuning and optimization
-  Advanced CNN architectures
-  Model deployment on cloud and edge devices
-  Improving documentation and code quality in ML projects
+  LLM fine-tuning and optimization  
+  Advanced CNN architectures  
+  Model deployment on cloud and edge devices  
+  Improving documentation and code quality in ML projects  
 
 Contact:
 
