@@ -4,12 +4,12 @@ I am a 3rd-year Information Science & Engineering student with a strong focus on
 
 Skills:
 
-Programming: Python, Java, C, C++
-AI/ML: TensorFlow, PyTorch (beginner), CNNs, Transformers
-Data Science: NumPy, Pandas, Matplotlib
-Computer Vision: OpenCV, image preprocessing, detection pipelines
-Embedded Systems: Raspberry Pi Zero 2W, Flask, API-based pipelines
-Other: Git, Linux basics, model deployment concepts,UiPath Automation
+Programming: Python, Java, C, C++<br>
+AI/ML: TensorFlow, PyTorch (beginner), CNNs, Transformers<br>
+Data Science: NumPy, Pandas, Matplotlib<br> 
+Computer Vision: OpenCV, image preprocessing, detection pipelines<br>
+Embedded Systems: Raspberry Pi Zero 2W, Flask, API-based pipelines<br>
+Other: Git, Linux basics, model deployment concepts,UiPath Automation<br>
 
 Major Projects:
 
@@ -29,19 +29,18 @@ Major Projects:
 
     Worked on fine-tuning LLaMA models, dataset preparation, training pipelines, and evaluation frameworks.
 
-What I’m Currently Learning
+What I’m Currently Learning:
 
-LLM fine-tuning and optimization
+    LLM fine-tuning and optimization
 
-Advanced CNN architectures
+    Advanced CNN architectures
 
-Model deployment on cloud and edge devices
+    Model deployment on cloud and edge devices
 
-Improving documentation and code quality in ML projects
+    Improving documentation and code quality in ML projects
 
-Contact
+Contact:
 
 Feel free to reach out:
-
 Email:ahmedmu7077@gmail.com
 LinkedIn: www.linkedin.com/in/muhammadahmed05
