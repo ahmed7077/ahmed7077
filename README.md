@@ -20,7 +20,8 @@ My interests lie in bridging **AI research concepts with deployable systems**.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmed7077&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmed7077&show_icons=true&theme=github_dark&hide_border=true)
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed7077&layout=compact&theme=tokyonight&hide_border=true)
 
