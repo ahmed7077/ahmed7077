@@ -31,100 +31,121 @@ My interests lie in bridging **AI research concepts with deployable systems**.
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmed7077&theme=tokyo-night&hide_border=true)
 
-## Technical Skills
 
-### Programming Languages
+Here’s a **cleaned, more professional, recruiter-ready version** of your Technical Skills section. I’ve reduced redundancy, improved grouping, and made it more “portfolio-grade”:
 
-Python, Java, C, C++
+---
 
-### Artificial Intelligence & Machine Learning
+##  Technical Skills
+
+###  Programming Languages
+
+Python • Java • C • C++
+
+---
+
+###  Artificial Intelligence & Machine Learning
 
 * Deep Learning (CNNs, Transfer Learning)
-* Transformers (LLMs, Fine-tuning concepts)
-* TensorFlow (Advanced)
-* PyTorch (Beginner)
+* Transformers & LLMs (Fine-tuning concepts, LoRA basics)
+* TensorFlow (Intermediate–Advanced)
+* PyTorch (Basic–Intermediate)
 
-### Data Science
+---
+
+###  Data Science & Analysis
 
 * NumPy
 * Pandas
 * Matplotlib
+* Data preprocessing & feature engineering
 
-### Computer Vision
+---
+
+###  Computer Vision
 
 * OpenCV
 * Image preprocessing pipelines
-* Object detection and classification systems
+* Object detection & classification systems
 
-### Embedded & Systems
+---
+
+###  Embedded Systems & Deployment
 
 * Raspberry Pi Zero 2 W
-* Arduino (basic IoT systems)
-* Flask (API integration)
-* Model deployment concepts
+* Arduino (IoT sensor systems)
+* Flask (REST API integration)
+* Model deployment fundamentals (edge + basic cloud inference)
 
-### Tools & Other Skills
+---
+
+###  Tools & Engineering Practices
 
 * Git & GitHub
-* Linux basics
-* UIPath Automation (basic)
+* Linux (basic CLI usage)
 * System design fundamentals for ML pipelines
+* UIPath Automation (basic)
 
 ---
 
-## Major Projects
+### Frontend
 
-### 1. LLM Fine-Tuning System (IonIdea Internship)
-
-Worked on efficient fine-tuning of large language models using parameter-efficient techniques such as LoRA and QLoRA.
-
-Key contributions:
-
-* Dataset preparation and structuring (JSONL format)
-* Training pipeline using Hugging Face ecosystem
-* Evaluation and inference pipeline design
-* Implementation of a controlled Model Control Pipeline (MCP) for hybrid retrieval + generation
+* HTML
+* CSS
 
 ---
+##  Major Projects
 
-### 2. Astronomical Event Detection System
+<div align="center">
 
-Raspberry Pi Zero 2 W-based edge AI system for detecting astronomical events from sky images.
+<table>
+  <tr>
+    <td>
 
-Features:
+###  LLM Fine-Tuning System
 
-* Detection of meteor streaks, satellite paths, star clusters, auroras, and planetary alignment
-* OpenCV-based image processing pipeline
-* Lightweight clustering using DBSCAN
-* Optimized for low-power edge devices
+<a href="https://github.com/ahmed7077/efficient-llm-adaptation">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmed7077&repo=efficient-llm-adaptation&theme=github_dark" />
+</a>
 
----
+</td>
 
-### 3. Facial Expression Detection (FER2013)
+<td>
 
-Deep learning-based emotion classification system using EfficientNetB0.
+###  Astronomical Event Detection System
 
-Highlights:
+<a href="https://github.com/ahmed7077/astro-event-detector-pi0w">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmed7077&repo=astro-event-detector-pi0w&theme=github_dark" />
+</a>
 
-* 7-class emotion recognition (Angry, Happy, Sad, etc.)
-* Multi-stage training (feature extraction + fine-tuning)
-* TensorFlow-based preprocessing and inference pipeline
-* Real-time image prediction support
+</td>
+</tr>
 
----
+<tr>
+<td>
 
-### 4. IoT Server Monitoring System
+###  Facial Expression Recognition
 
-Arduino-based IoT project developed during early academic learning phase.
+<a href="https://github.com/ahmed7077/face-emotion-recognition">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmed7077&repo=face-emotion-recognition&theme=github_dark" />
+</a>
 
-Highlights:
+</td>
 
-* Environmental monitoring using DHT11 and MQ-2 sensors
-* ESP8266-based Wi-Fi data transmission
-* Cloud visualization using ThingSpeak
-* Simulated server load and fan monitoring
+<td>
 
----
+###  IoT Server Room Monitoring
+
+<a href="https://github.com/ahmed7077/IoT-Server-Monitoring-System">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmed7077&repo=IoT-Server-Monitoring-System&theme=github_dark" />
+</a>
+
+</td>
+</tr>
+</table>
+
+</div>
+
 
 ## Current Learning Focus
 
@@ -147,7 +168,3 @@ Highlights:
 
 ---
 
-
-Make this an interactive readme by adding things like hovering animations and for my Github stats its says (last year) for Total commits and contributed to, fix that and for the contribution activity graph make it so that when i hover over the point it shows the number of commits done on that particular day.
-
-Make this a professional Github readme
