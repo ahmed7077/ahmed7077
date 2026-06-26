@@ -1,6 +1,6 @@
 <div align="center">
 
-# Ahmed — AI & Machine Learning Developer
+# Muhammad Ahmed — AI & Machine Learning Developer
 
 </div>
 
@@ -9,11 +9,9 @@
 
 ## About Me
 
-I am a 3rd-year Information Science & Engineering student specializing in Artificial Intelligence, Machine Learning, and Computer Vision.
+I’m a 4th-year Information Science & Engineering student focused on AI, Machine Learning, and Computer Vision.
 
-I focus on building practical, real-world systems involving deep learning models, LLM fine-tuning, and embedded AI applications using edge devices such as Raspberry Pi.
-
-My interests lie in bridging **AI research concepts with deployable systems**.
+I build applied ML systems involving deep learning, LLM fine-tuning, and model deployment, with an interest in turning AI concepts into practical applications.
 
 ---
 ## GitHub Analytics
@@ -30,9 +28,6 @@ My interests lie in bridging **AI research concepts with deployable systems**.
 ## Contribution Activity
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmed7077&theme=tokyo-night&hide_border=true)
-
-
-Here’s a **cleaned, more professional, recruiter-ready version** of your Technical Skills section. I’ve reduced redundancy, improved grouping, and made it more “portfolio-grade”:
 
 ---
 
@@ -146,6 +141,7 @@ Python • Java • C • C++
 
 </div>
 
+---
 
 ## Current Learning Focus
 
