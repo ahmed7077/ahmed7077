@@ -1,149 +1,160 @@
+
+# Ahmed — AI & Machine Learning Engineer
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,20,24,25&text=Ahmed&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20Engineer&descAlignY=55"/>
+
 <div align="center">
 
-# Ahmed — AI & Machine Learning Developer
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence;Machine+Learning;Computer+Vision;Large+Language+Models;Edge+AI+with+Raspberry+Pi;Building+Production-Ready+AI+Systems)](https://git.io/typing-svg)
 
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Developer;Deep+Learning+%7C+Computer+Vision+%7C+LLMs;Building+Real+World+AI+Systems;Raspberry+Pi+%7C+Edge+AI+%7C+LLM+Fine-Tuning)](https://git.io/typing-svg)
+<div align="center">
 
+![](https://komarev.com/ghpvc/?username=ahmed7077&style=for-the-badge)
+![](https://img.shields.io/github/followers/ahmed7077?style=for-the-badge)
+![](https://img.shields.io/github/stars/ahmed7077?affiliations=OWNER&style=for-the-badge)
+
+</div>
+
+---
 
 ## About Me
 
-I am a 3rd-year Information Science & Engineering student specializing in Artificial Intelligence, Machine Learning, and Computer Vision.
+I am a 3rd-year Information Science & Engineering student focused on Artificial Intelligence, Machine Learning, and Computer Vision.
 
-I focus on building practical, real-world systems involving deep learning models, LLM fine-tuning, and embedded AI applications using edge devices such as Raspberry Pi.
+I build end-to-end AI systems including:
+- LLM fine-tuning and optimization
+- Computer vision pipelines
+- Edge AI systems using Raspberry Pi
+- Production-style ML workflows
 
-My interests lie in bridging **AI research concepts with deployable systems**.
+My goal is to bridge AI research with deployable real-world systems.
 
 ---
+
+## Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,tensorflow,pytorch,opencv,git,github,linux,flask,vscode"/>
+
+</div>
+
+---
+
 ## GitHub Analytics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmed7077&show_icons=true&theme=github_dark&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmed7077&show_icons=true&theme=github_dark&hide_border=true"/>
 
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed7077&layout=compact&theme=tokyonight&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed7077&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
-## Contribution Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmed7077&theme=tokyo-night&hide_border=true)
-
-## Technical Skills
-
-### Programming Languages
-
-Python, Java, C, C++
-
-### Artificial Intelligence & Machine Learning
-
-* Deep Learning (CNNs, Transfer Learning)
-* Transformers (LLMs, Fine-tuning concepts)
-* TensorFlow (Advanced)
-* PyTorch (Beginner)
-
-### Data Science
-
-* NumPy
-* Pandas
-* Matplotlib
-
-### Computer Vision
-
-* OpenCV
-* Image preprocessing pipelines
-* Object detection and classification systems
-
-### Embedded & Systems
-
-* Raspberry Pi Zero 2 W
-* Arduino (basic IoT systems)
-* Flask (API integration)
-* Model deployment concepts
-
-### Tools & Other Skills
-
-* Git & GitHub
-* Linux basics
-* UIPath Automation (basic)
-* System design fundamentals for ML pipelines
-
 ---
 
-## Major Projects
+## GitHub Profile Summary Cards
 
-### 1. LLM Fine-Tuning System (IonIdea Internship)
-
-Worked on efficient fine-tuning of large language models using parameter-efficient techniques such as LoRA and QLoRA.
-
-Key contributions:
-
-* Dataset preparation and structuring (JSONL format)
-* Training pipeline using Hugging Face ecosystem
-* Evaluation and inference pipeline design
-* Implementation of a controlled Model Control Pipeline (MCP) for hybrid retrieval + generation
-
----
-
-### 2. Astronomical Event Detection System
-
-Raspberry Pi Zero 2 W-based edge AI system for detecting astronomical events from sky images.
-
-Features:
-
-* Detection of meteor streaks, satellite paths, star clusters, auroras, and planetary alignment
-* OpenCV-based image processing pipeline
-* Lightweight clustering using DBSCAN
-* Optimized for low-power edge devices
-
----
-
-### 3. Facial Expression Detection (FER2013)
-
-Deep learning-based emotion classification system using EfficientNetB0.
-
-Highlights:
-
-* 7-class emotion recognition (Angry, Happy, Sad, etc.)
-* Multi-stage training (feature extraction + fine-tuning)
-* TensorFlow-based preprocessing and inference pipeline
-* Real-time image prediction support
-
----
-
-### 4. IoT Server Monitoring System
-
-Arduino-based IoT project developed during early academic learning phase.
-
-Highlights:
-
-* Environmental monitoring using DHT11 and MQ-2 sensors
-* ESP8266-based Wi-Fi data transmission
-* Cloud visualization using ThingSpeak
-* Simulated server load and fan monitoring
-
----
-
-## Current Learning Focus
-
-* Large Language Model fine-tuning and optimization
-* Advanced CNN architectures and vision transformers
-* Deployment of ML models on cloud and edge devices
-* Improving software engineering practices for ML systems
-* Building production-grade AI project documentation
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmed7077&theme=github_dark)
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=2000&color=00C2FF&center=true&vCenter=true&width=600&lines=Always+Learning+%7C+Always+Building)](https://git.io/typing-svg)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmed7077&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahmed7077&theme=github_dark"/>
 
 </div>
 
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmed7077&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmed7077&theme=github_dark&utcOffset=5.5"/>
+
+</div>
+
+---
+
+## GitHub Streak
+
+<div align="center">
+
+![](https://streak-stats.demolab.com?user=ahmed7077&theme=github-dark-blue&hide_border=true)
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=ahmed7077&theme=tokyo-night&hide_border=true)
+
+</div>
+
+---
+
+## Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/ahmed7077/ahmed7077/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+## GitHub Trophy
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=ahmed7077&theme=algolia&no-frame=true&row=2&column=4)
+
+</div>
+
+---
+
+## Featured Projects
+
+### LLM Fine-Tuning System
+- LoRA / QLoRA training pipeline
+- Hugging Face ecosystem
+- Dataset structuring & evaluation
+
+### Astronomical Event Detection
+- Raspberry Pi edge AI system
+- OpenCV pipelines
+- DBSCAN clustering
+
+### Facial Emotion Recognition
+- EfficientNetB0 model
+- 7-class classification
+- Real-time inference
+
+### IoT Server Monitoring System
+- Arduino + ESP8266
+- Sensor-based monitoring
+- Cloud integration
+
+---
+
+## Current Focus
+
+- LLM optimization & alignment
+- Vision Transformers
+- Edge AI deployment
+- ML system design
+
+---
+
 ## Contact
 
-* Email: [ahmedmu7077@gmail.com](mailto:ahmedmu7077@gmail.com)
-* LinkedIn: [www.linkedin.com/in/muhammadahmed05](http://www.linkedin.com/in/muhammadahmed05)
+- Email: ahmedmu7077@gmail.com  
+- LinkedIn: www.linkedin.com/in/muhammadahmed05  
+- GitHub: https://github.com/ahmed7077  
 
 ---
 
