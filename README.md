@@ -1,6 +1,6 @@
 <div align="center">
 
-# Muhammad Ahmed — AI & Machine Learning Developer
+# Muhammad Ahmed
 
 </div>
 
