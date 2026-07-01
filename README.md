@@ -18,8 +18,9 @@ I build applied ML systems involving deep learning, LLM fine-tuning, and model d
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmed7077&show_icons=true&theme=github_dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmed7077&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmed7077&theme=github-dark&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed7077&layout=compact&theme=tokyonight&hide_border=true)
 
