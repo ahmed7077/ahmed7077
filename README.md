@@ -2,141 +2,148 @@
 
 # Muhammad Ahmed
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=26\&pause=1000\&color=00C2FF\&center=true\&vCenter=true\&width=900\&lines=AI+%26+Machine+Learning+Engineer;Deep+Learning+%7C+Computer+Vision+%7C+LLMs;Building+Real+World+AI+Systems;Edge+AI+%7C+Model+Deployment)](https://git.io/typing-svg)
+
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Developer;Deep+Learning+%7C+Computer+Vision+%7C+LLMs;Building+Real+World+AI+Systems;Edge+AI+%7C+LLM+Fine-Tuning)](https://git.io/typing-svg)
+---
 
+# About Me
 
-## About Me
+I'm a **4th-year Information Science & Engineering** student with a strong interest in **Artificial Intelligence, Machine Learning, Computer Vision, and Large Language Models**.
 
-I’m a 4th-year Information Science & Engineering student focused on AI, Machine Learning, and Computer Vision.
-
-I build applied ML systems involving deep learning, LLM fine-tuning, and model deployment, with an interest in turning AI concepts into practical applications.
+I enjoy building practical AI systems involving deep learning, computer vision, LLM fine-tuning, model deployment, and lightweight web interfaces. My goal is to bridge research concepts with deployable real-world applications.
 
 ---
-## GitHub Analytics
+
+# GitHub Analytics
 
 <div align="center">
 
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmed7077&theme=github_dark)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmed7077\&theme=tokyonight)
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmed7077&theme=github_dark)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmed7077\&theme=tokyonight)
 
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmed7077&theme=github_dark)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmed7077\&theme=tokyonight)
 
 </div>
 
-## Contribution Activity
+---
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmed7077&theme=tokyo-night&hide_border=true)
+# Contribution Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmed7077\&theme=tokyo-night\&hide_border=true)
 
 ---
 
-##  Technical Skills
+# Technical Skills
 
-###  Programming Languages
 
-Python • Java • C • C++
+### Programming Languages
 
----
+* Python
+* Java
+* C
+* C++
+* TypeScript
 
-###  Artificial Intelligence & Machine Learning
+### Artificial Intelligence & Machine Learning
 
 * Deep Learning (CNNs, Transfer Learning)
-* Transformers & LLMs (Fine-tuning concepts, LoRA basics)
-* TensorFlow (Intermediate–Advanced)
-* PyTorch (Basic–Intermediate)
+* Transformers & Large Language Models
+* LoRA Fine-tuning
+* TensorFlow
+* PyTorch
 
----
-
-###  Data Science & Analysis
+### Data Science
 
 * NumPy
 * Pandas
 * Matplotlib
 * Data preprocessing & feature engineering
 
----
-
-###  Computer Vision
+### Computer Vision
 
 * OpenCV
-* Image preprocessing pipelines
-* Object detection & classification systems
+* Image preprocessing
+* Object detection & classification
+* Feature extraction pipelines
 
----
-
-###  Embedded Systems & Deployment
+### Embedded AI & Deployment
 
 * Raspberry Pi Zero 2 W
-* Arduino (IoT sensor systems)
-* Flask (REST API integration)
-* Model deployment fundamentals (edge + basic cloud inference)
+* Arduino (IoT systems)
+* Flask REST APIs
+* Edge AI deployment
+* Basic cloud inference
 
----
-
-###  Tools & Engineering Practices
+### Software Engineering
 
 * Git & GitHub
-* Linux (basic CLI usage)
+* Linux CLI
+* REST APIs
 * System design fundamentals for ML pipelines
-* UIPath Automation (basic)
-
----
+* UiPath Automation (Basic)
 
 ### Frontend
 
-* HTML
-* CSS
+* HTML5
+* CSS3
+* TypeScript
 
 ---
-##  Major Projects
+
+# Featured Projects
 
 <div align="center">
 
 <table>
-  <tr>
-    <td>
+<tr>
 
-###  LLM Fine-Tuning System
+<td>
+
+### LLM Fine-Tuning System
 
 <a href="https://github.com/ahmed7077/efficient-llm-adaptation">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmed7077&repo=efficient-llm-adaptation&theme=github_dark" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmed7077&repo=efficient-llm-adaptation&theme=github_dark"/>
 </a>
 
 </td>
 
 <td>
 
-###  Astronomical Event Detection System
+### Astronomical Event Detection
 
 <a href="https://github.com/ahmed7077/astro-event-detector-pi0w">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmed7077&repo=astro-event-detector-pi0w&theme=github_dark" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmed7077&repo=astro-event-detector-pi0w&theme=github_dark"/>
 </a>
 
 </td>
+
 </tr>
 
 <tr>
+
 <td>
 
-###  Facial Expression Recognition
+### Facial Expression Recognition
 
 <a href="https://github.com/ahmed7077/face-emotion-recognition">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmed7077&repo=face-emotion-recognition&theme=github_dark" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmed7077&repo=face-emotion-recognition&theme=github_dark"/>
 </a>
 
 </td>
 
 <td>
 
-###  IoT Server Room Monitoring
+### IoT Server Monitoring System
 
 <a href="https://github.com/ahmed7077/IoT-Server-Monitoring-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmed7077&repo=IoT-Server-Monitoring-System&theme=github_dark" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmed7077&repo=IoT-Server-Monitoring-System&theme=github_dark"/>
 </a>
 
 </td>
+
 </tr>
 </table>
 
@@ -144,24 +151,33 @@ Python • Java • C • C++
 
 ---
 
-## Current Learning Focus
+# Current Learning Focus
 
 * Large Language Model fine-tuning and optimization
-* Advanced CNN architectures and vision transformers
-* Deployment of ML models on cloud and edge devices
-* Improving software engineering practices for ML systems
-* Building production-grade AI project documentation
+* Advanced CNN architectures & Vision Transformers
+* Edge AI deployment
+* Cloud-based ML inference
+* TypeScript & modern frontend development
+* Building production-ready AI applications
+* Software engineering best practices for ML systems
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=2000&color=00C2FF&center=true&vCenter=true&width=600&lines=Always+Learning+%7C+Always+Building)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=18\&pause=1800\&color=00C2FF\&center=true\&vCenter=true\&width=650\&lines=Always+Learning+%7C+Always+Building;Turning+Ideas+into+AI+Solutions)](https://git.io/typing-svg)
 
 </div>
 
-## Contact
+---
 
-* Email: [ahmedmu7077@gmail.com](mailto:ahmedmu7077@gmail.com)
-* LinkedIn: [www.linkedin.com/in/muhammadahmed05](http://www.linkedin.com/in/muhammadahmed05)
+# Connect With Me
+
+* 📧 **Email:** [ahmedmu7077@gmail.com](mailto:ahmedmu7077@gmail.com)
+* 💼 **LinkedIn:** https://www.linkedin.com/in/muhammadahmed05
 
 ---
 
+<div align="center">
+
+### Thanks for visiting!
+
+</div>
