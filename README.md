@@ -95,61 +95,59 @@ I enjoy building practical AI systems involving deep learning, computer vision, 
 
 # Featured Projects
 
-<div align="center">
-
 <table>
 <tr>
+<td width="50%" valign="top">
 
-<td>
+### [LLM Fine-Tuning System](https://github.com/ahmed7077/efficient-llm-adaptation)
 
-### LLM Fine-Tuning System
+Parameter-efficient fine-tuning of Meta Llama 3.2-3B-Instruct using LoRA, supervised fine-tuning and a lightweight retrieval layer.
 
-<a href="https://github.com/ahmed7077/efficient-llm-adaptation">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmed7077&repo=efficient-llm-adaptation&theme=github_dark"/>
-</a>
-
-</td>
-
-<td>
-
-### Astronomical Event Detection
-
-<a href="https://github.com/ahmed7077/astro-event-detector-pi0w">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmed7077&repo=astro-event-detector-pi0w&theme=github_dark"/>
-</a>
+![Python](https://img.shields.io/badge/Python-LLM%20Fine--Tuning-blue)
+![LoRA](https://img.shields.io/badge/LoRA-PEFT-purple)
+![Transformers](https://img.shields.io/badge/Hugging%20Face-Transformers-yellow)
 
 </td>
 
+<td width="50%" valign="top">
+
+### [Astronomical Event Detection](https://github.com/ahmed7077/astro-event-detector-pi0w)
+
+Edge-based astronomical event detection system using Raspberry Pi Zero 2 W, OpenCV and DBSCAN.
+
+![Python](https://img.shields.io/badge/Python-Computer%20Vision-blue)
+![OpenCV](https://img.shields.io/badge/OpenCV-Image%20Processing-green)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-Edge%20AI-red)
+
+</td>
 </tr>
 
 <tr>
+<td width="50%" valign="top">
 
-<td>
+### [Facial Expression Recognition](https://github.com/ahmed7077/face-emotion-recognition)
 
-### Facial Expression Recognition
+Deep-learning facial-expression recognition system trained on FER2013 using EfficientNetB0 and TensorFlow.
 
-<a href="https://github.com/ahmed7077/face-emotion-recognition">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmed7077&repo=face-emotion-recognition&theme=github_dark"/>
-</a>
-
-</td>
-
-<td>
-
-### IoT Server Monitoring System
-
-<a href="https://github.com/ahmed7077/IoT-Server-Monitoring-System">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmed7077&repo=IoT-Server-Monitoring-System&theme=github_dark"/>
-</a>
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Deep%20Learning-orange)
+![EfficientNet](https://img.shields.io/badge/EfficientNetB0-CNN-blue)
+![FER2013](https://img.shields.io/badge/Dataset-FER2013-lightgrey)
 
 </td>
 
+<td width="50%" valign="top">
+
+### [IoT Server Monitoring System](https://github.com/ahmed7077/IoT-Server-Monitoring-System)
+
+IoT monitoring system using Arduino, ESP8266, DHT11, MQ-2 and ThingSpeak for real-time environmental tracking.
+
+![Arduino](https://img.shields.io/badge/Arduino-IoT-teal)
+![ESP8266](https://img.shields.io/badge/ESP8266-WiFi-blue)
+![ThingSpeak](https://img.shields.io/badge/ThingSpeak-Cloud-green)
+
+</td>
 </tr>
 </table>
-
-</div>
-
----
 
 # Current Learning Focus
 
